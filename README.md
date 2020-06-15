@@ -8,11 +8,11 @@ A aplicação tem a finalidade de consumir uma [API](https://api-node2020.heroku
 - Axios
 - Dotenv
 
-<div>
-  <a href="https://aad-hunt.herokuapp.com/" target="_blank" >
-    <h2>Aplicação em produção</h2>
-    <img src="./assets_readme/screen.png">
-  </a>
-</div>
+[Aplicação em produção](https://aad-hunt.herokuapp.com/)
+
+
+![](./assets_readme/screen.png)
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
